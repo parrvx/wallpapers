@@ -12,6 +12,10 @@ Anime-Room.png
 
 <img src="https://github.com/parrvx/wallpapers/blob/main/Anime-Room.png?raw=true" alt="Anime-Room.png">
 
+apple.png
+
+<img src="https://github.com/parrvx/wallpapers/blob/main/apple.png?raw=true" alt="Anime-Room.png">
+
 Bonsai-Plant.png
 
 <img src="https://github.com/parrvx/wallpapers/blob/main/Bonsai-Plant.png?raw=true" alt="Bonsai-Plant.png">
